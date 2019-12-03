@@ -34,5 +34,26 @@ namespace WhatMoodAreYouIn.Controllers
         {
             return View(); 
         }
+
+        public ActionResult chr2artist()
+        {
+            return View();
+        }
+
+        public ActionResult chr3artist()
+        {
+            return View();
+        }
+
+        public ActionResult chr4artist()
+        {
+            return View();
+        }
+
+        public ActionResult chr5artist()
+        {
+            return View();
+        }
+
     }
 }
