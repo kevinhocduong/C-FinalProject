@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Baskerville Old Face";
+
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+#appname {
+    background-color: steelblue;
+}
+
+h2 {
+    padding-top: 1%;
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 4px 4px;
+    margin: 10px;
+    background-color: white;
+}
+
+card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        transform: scale(.75,1.5);
+        transition: all .5s ease-in-out;
+}
+
+#alternative {
+    background-image: url("https://66.media.tumblr.com/375baffb0e4b636f923059e00c28ba7c/7bc43b61e1b23db3-cd/s540x810/6c0045ac7c208f9577552d15d00283afda3d9dee.png")
+}
+
+#christmas {
+    background-image: url("https://i.pinimg.com/600x315/82/65/fa/8265faa0ab1f0c5cda300b09784d4179.jpg")
+}
+
+#country {
+    background-image: url("http://www.carlyjamison.com/wp-content/uploads/2016/11/Acoustic-Guitar-Web-Banner-Blue.jpg")
+}
+
+#hiphop {
+    background-image: url("https://www.whudat.de/images/2015/07/kendrick_lamar_whudat_roundup_2015.jpg")
+}
+
+#instrumental {
+    background-image: url("https://www.landersax.com/imagens/editor/images/Harm%C3%B4nicos%201.jpg")
+}
+
+#pop {
+    background-image: url("http://www.killahbeez.com/wordpress/wp-content/uploads/2009/06/michael-jackson-header.jpg")
+}
